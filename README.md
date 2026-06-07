@@ -92,9 +92,9 @@ Profiled all 15 tables before any analysis to validate data quality and understa
 
 ## Tools
 
-| PostgreSQL | Database and query execution |
-| pgAdmin 4 | GUI, query runner |
-| Git + GitHub | Version control and portfolio |
+* | PostgreSQL | Database and query execution |
+* | pgAdmin 4 | GUI, query runner |
+* | Git + GitHub | Version control and portfolio |
 
 ---
 
@@ -113,4 +113,4 @@ Profiled all 15 tables before any analysis to validate data quality and understa
 
 **Trey Mitchell**
 B.S. Mathematics | Minor in Computer Science
-GitHub: [your link] | LinkedIn: [your link]
+GitHub: https://github.com/mtrey0220 | LinkedIn: www.linkedin.com/in/trey-mitchell-100043269
