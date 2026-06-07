@@ -39,24 +39,24 @@ PostgreSQL database. The project covers data exploration, data quality auditing,
 
 ## Project Structure
 
-dvdrental-sql-analysis/
-├── README.md
-├── KEY_FINDINGS.md
-├── Queries/
-│   ├── 01_data_exploration.sql
-│   └── 02_business_analytics.sql
-└── screenshots/
-    ├── erd_schema.png
-    ├── row_counts.png
-    ├── null_audit_rental.png
-    ├── rentals_by_day.png
-    ├── film_rating_distribution.png
-    ├── total_revenue.png
-    ├── revenue_by_month.png
-    ├── revenue_by_store.png
-    ├── top_20_customers.png
-    ├── most_rented_films.png
-    └── revenue_by_category.png
+* dvdrental-sql-analysis/
+* ├── README.md
+* ├── KEY_FINDINGS.md
+* ├── Queries/
+* │   ├── 01_data_exploration.sql
+* │   └── 02_business_analytics.sql
+* └── screenshots/
+    * ├── erd_schema.png
+    * ├── row_counts.png
+    * ├── null_audit_rental.png
+    * ├── rentals_by_day.png
+    * ├── film_rating_distribution.png
+    * ├── total_revenue.png
+    * ├── revenue_by_month.png
+    * ├── revenue_by_store.png
+    * ├── top_20_customers.png
+    * ├── most_rented_films.png
+    * └── revenue_by_category.png
 
 ---
 
