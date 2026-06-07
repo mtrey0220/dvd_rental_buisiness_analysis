@@ -28,12 +28,12 @@ PostgreSQL database. The project covers data exploration, data quality auditing,
 
 ## Key Numbers
 
-| Total Revenue | $61312.04 |
-| Total Customers | 599 |
-| Total Films | 1,000 |
-| Total Rentals | 16044 |
-| Top Customer LTV | Eleanor Hunt $211.55 |
-| Highest Revenue Category | Sports ($4892.19) |
+* | Total Revenue | $61312.04 |
+* | Total Customers | 599 |
+* | Total Films | 1,000 |
+* | Total Rentals | 16044 |
+* | Top Customer LTV | Eleanor Hunt $211.55 |
+* | Highest Revenue Category | Sports ($4892.19) |
 
 ---
 
